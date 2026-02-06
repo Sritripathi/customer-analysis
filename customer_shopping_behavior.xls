@@ -1,0 +1,1001 @@
+CustomId,Age,Gender,City,ProductCategory,PurchaseAmount,PurchaseDate,PaymentMethod,CustomerType
+1102,62,Female,Hyderabad,Home,16310,2024-12-02,Credit Card,New
+1435,22,Female,Chennai,Sports,5626,2024-10-23,Cash,New
+1860,50,Male,Bangalore,Beauty,30509,2024-08-01,Debit Card,New
+1270,18,Female,Bangalore,Sports,34084,2024-10-17,Credit Card,Returning
+1106,35,Female,Delhi,Home,46682,2024-01-22,Debit Card,Returning
+1071,49,Male,Delhi,Beauty,25896,2024-07-11,Debit Card,New
+1700,64,Female,Hyderabad,Sports,692,2024-05-29,Credit Card,Returning
+1020,28,Female,Hyderabad,Electronics,36913,2024-09-03,Credit Card,Returning
+1614,38,Female,Mumbai,Beauty,13316,2024-09-23,Cash,New
+1121,43,Male,Hyderabad,Electronics,39582,2024-09-07,Debit Card,Returning
+1466,42,Female,Mumbai,Clothing,32630,2024-01-03,Debit Card,Returning
+1214,39,Female,Chennai,Beauty,40642,2024-11-11,Credit Card,New
+1330,44,Female,Delhi,Electronics,36968,2024-03-16,UPI,Returning
+1458,30,Female,Chennai,Home,31198,2024-03-27,Credit Card,Returning
+1087,50,Male,Hyderabad,Home,11155,2024-09-26,Debit Card,Returning
+1372,51,Male,Chennai,Clothing,48397,2024-08-12,Credit Card,New
+1099,58,Female,Chennai,Beauty,30575,2024-01-18,Cash,New
+1871,52,Female,Chennai,Beauty,9859,2024-04-22,UPI,Returning
+1663,18,Male,Hyderabad,Beauty,37161,2024-09-07,Credit Card,Returning
+1130,38,Male,Chennai,Clothing,40079,2024-08-20,Cash,Returning
+1661,23,Female,Mumbai,Beauty,42556,2024-11-24,Debit Card,New
+1308,45,Male,Hyderabad,Home,33772,2024-10-05,Credit Card,New
+1769,34,Female,Chennai,Electronics,43081,2024-07-20,Debit Card,New
+1343,22,Male,Hyderabad,Home,15171,2024-03-23,Cash,Returning
+1491,48,Male,Bangalore,Home,27548,2024-05-04,Debit Card,Returning
+1413,22,Male,Mumbai,Electronics,11238,2024-06-23,Cash,Returning
+1805,55,Male,Chennai,Home,26463,2024-03-09,Cash,Returning
+1385,20,Female,Bangalore,Clothing,44454,2024-02-16,Cash,Returning
+1191,40,Male,Bangalore,Electronics,7273,2024-09-12,Credit Card,New
+1955,54,Male,Hyderabad,Home,37084,2024-08-02,Debit Card,Returning
+1276,54,Female,Bangalore,Sports,30394,2024-01-30,Debit Card,Returning
+1160,27,Male,Mumbai,Home,1217,2024-10-07,UPI,Returning
+1459,27,Male,Mumbai,Clothing,12176,2024-08-24,UPI,New
+1313,36,Female,Delhi,Beauty,4934,2024-09-04,UPI,Returning
+1021,34,Male,Mumbai,Home,38325,2024-01-25,UPI,New
+1252,38,Female,Bangalore,Beauty,29600,2024-03-14,Debit Card,New
+1747,31,Female,Mumbai,Sports,5494,2024-07-24,Cash,New
+1856,26,Female,Hyderabad,Home,4734,2024-11-09,Cash,New
+1560,63,Female,Delhi,Electronics,4264,2024-04-03,Credit Card,New
+1474,18,Male,Bangalore,Beauty,44449,2024-05-06,Cash,Returning
+1058,62,Female,Delhi,Sports,37905,2024-01-25,Debit Card,Returning
+1510,30,Male,Bangalore,Electronics,35372,2024-11-29,Debit Card,New
+1681,21,Male,Hyderabad,Electronics,42715,2024-12-20,Debit Card,New
+1475,18,Male,Delhi,Electronics,23685,2024-04-25,Credit Card,New
+1699,57,Male,Chennai,Electronics,43942,2024-02-17,UPI,Returning
+1975,49,Male,Bangalore,Home,41653,2024-08-13,Cash,Returning
+1782,51,Male,Chennai,Home,12499,2024-09-22,Debit Card,New
+1189,45,Male,Delhi,Home,36987,2024-04-08,Debit Card,Returning
+1957,48,Male,Chennai,Sports,3081,2024-01-11,UPI,Returning
+1686,25,Male,Chennai,Sports,3263,2024-03-25,Debit Card,New
+1957,56,Male,Delhi,Sports,27874,2024-08-01,Cash,New
+1562,43,Female,Hyderabad,Clothing,39259,2024-06-21,Credit Card,Returning
+1875,51,Female,Chennai,Sports,11031,2024-07-27,Debit Card,Returning
+1566,20,Female,Chennai,Home,25807,2024-03-04,Cash,Returning
+1243,29,Male,Hyderabad,Home,31335,2024-09-14,Debit Card,New
+1831,18,Female,Chennai,Clothing,11564,2024-11-27,UPI,New
+1504,61,Female,Chennai,Clothing,11812,2024-04-30,Debit Card,New
+1130,22,Female,Chennai,Sports,38048,2024-10-24,Debit Card,Returning
+1484,47,Male,Mumbai,Beauty,37445,2024-02-23,Credit Card,Returning
+1818,47,Male,Hyderabad,Clothing,48437,2024-11-26,UPI,New
+1646,34,Male,Chennai,Electronics,6976,2024-09-28,UPI,Returning
+1020,64,Male,Hyderabad,Home,25065,2024-08-28,Credit Card,New
+1840,40,Female,Bangalore,Electronics,2882,2024-08-30,Debit Card,Returning
+1166,32,Female,Bangalore,Home,22963,2024-01-18,Cash,New
+1273,54,Female,Chennai,Home,45776,2024-07-05,UPI,Returning
+1387,38,Female,Hyderabad,Clothing,33902,2024-12-11,UPI,Returning
+1600,31,Male,Hyderabad,Clothing,26845,2024-05-23,Debit Card,New
+1315,19,Male,Hyderabad,Electronics,45264,2024-09-18,Debit Card,New
+1013,28,Male,Mumbai,Home,27446,2024-12-29,UPI,New
+1241,56,Female,Bangalore,Electronics,14662,2024-08-26,Debit Card,New
+1776,55,Male,Hyderabad,Beauty,49654,2024-10-30,Cash,New
+1345,51,Male,Hyderabad,Electronics,47273,2024-10-24,UPI,Returning
+1564,55,Female,Mumbai,Sports,8897,2024-03-16,Cash,New
+1897,51,Female,Mumbai,Electronics,22835,2024-07-06,Cash,New
+1339,35,Male,Hyderabad,Sports,45595,2024-11-28,Debit Card,New
+1091,47,Male,Delhi,Sports,14894,2024-09-02,Cash,New
+1366,32,Male,Hyderabad,Sports,27697,2024-05-09,Debit Card,New
+1955,44,Male,Hyderabad,Beauty,22510,2024-11-10,Credit Card,Returning
+1454,51,Male,Mumbai,Electronics,24623,2024-10-09,Debit Card,New
+1427,55,Male,Mumbai,Electronics,22887,2024-03-19,Cash,New
+1508,50,Female,Hyderabad,Beauty,3390,2024-03-12,Credit Card,New
+1775,41,Female,Hyderabad,Home,28269,2024-09-19,Debit Card,Returning
+1942,32,Female,Hyderabad,Clothing,44126,2024-07-09,Cash,Returning
+1034,47,Male,Mumbai,Electronics,8526,2024-03-03,UPI,New
+1205,59,Female,Hyderabad,Clothing,3806,2024-01-12,UPI,New
+1080,34,Male,Hyderabad,Beauty,34165,2024-05-20,Debit Card,Returning
+1931,22,Male,Chennai,Home,9777,2024-09-10,Debit Card,Returning
+1561,46,Female,Delhi,Home,42739,2024-02-12,UPI,Returning
+1871,21,Male,Bangalore,Home,48164,2024-01-17,Cash,New
+1387,27,Male,Delhi,Beauty,48508,2024-03-03,Cash,New
+1001,34,Female,Chennai,Sports,15183,2024-09-09,Cash,Returning
+1389,27,Female,Bangalore,Sports,1170,2024-10-18,Debit Card,New
+1565,34,Female,Hyderabad,Clothing,24175,2024-01-08,Credit Card,Returning
+1105,37,Male,Chennai,Sports,18389,2024-11-20,Credit Card,Returning
+1771,41,Female,Hyderabad,Sports,45035,2024-03-30,Credit Card,Returning
+1821,22,Female,Mumbai,Home,13506,2024-07-26,Credit Card,New
+1476,51,Male,Chennai,Home,49036,2024-10-18,Credit Card,Returning
+1702,23,Female,Mumbai,Clothing,27031,2024-10-10,Debit Card,Returning
+1401,19,Female,Chennai,Electronics,22139,2024-04-27,Debit Card,New
+1729,30,Female,Chennai,Clothing,17133,2024-12-14,Credit Card,Returning
+1555,60,Male,Mumbai,Clothing,35160,2024-06-23,Debit Card,New
+1161,60,Male,Bangalore,Beauty,3939,2024-03-16,Debit Card,Returning
+1201,28,Male,Delhi,Beauty,32672,2024-04-10,Credit Card,New
+1957,64,Male,Hyderabad,Clothing,36122,2024-05-30,Cash,Returning
+1995,40,Female,Chennai,Clothing,12077,2024-09-26,Debit Card,Returning
+1269,33,Male,Hyderabad,Clothing,12263,2024-03-11,Cash,Returning
+1862,48,Male,Mumbai,Sports,20676,2024-06-28,Debit Card,Returning
+1815,28,Female,Hyderabad,Beauty,44886,2024-05-03,Debit Card,Returning
+1270,33,Female,Mumbai,Clothing,24755,2024-10-19,Credit Card,New
+1455,25,Female,Hyderabad,Home,41503,2024-10-11,Debit Card,New
+1461,21,Male,Delhi,Home,20496,2024-07-13,UPI,Returning
+1726,57,Male,Delhi,Sports,35886,2024-08-15,UPI,Returning
+1251,21,Male,Delhi,Sports,21562,2024-10-01,Credit Card,Returning
+1701,42,Female,Delhi,Electronics,36431,2024-04-15,Cash,New
+1295,20,Female,Delhi,Electronics,36210,2024-01-21,Cash,New
+1724,49,Male,Delhi,Electronics,35193,2024-03-04,Cash,Returning
+1719,20,Female,Mumbai,Sports,36240,2024-06-13,UPI,New
+1748,44,Female,Chennai,Sports,12205,2024-01-27,Cash,Returning
+1337,46,Female,Hyderabad,Sports,43908,2024-11-06,Cash,Returning
+1878,49,Male,Delhi,Home,28547,2024-10-11,Credit Card,Returning
+1052,36,Female,Mumbai,Sports,11466,2024-05-27,Cash,New
+1791,38,Female,Mumbai,Home,17874,2024-10-07,UPI,Returning
+1921,22,Male,Mumbai,Electronics,11638,2024-11-21,UPI,Returning
+1216,35,Male,Chennai,Electronics,16435,2024-11-14,UPI,Returning
+1763,45,Female,Hyderabad,Electronics,46413,2024-06-12,Credit Card,New
+1187,59,Female,Chennai,Clothing,989,2024-08-11,Credit Card,New
+1379,39,Male,Bangalore,Clothing,45016,2024-09-28,Debit Card,New
+1492,38,Male,Mumbai,Beauty,22760,2024-05-25,Cash,Returning
+1040,23,Female,Bangalore,Beauty,26569,2024-12-21,Credit Card,New
+1156,18,Female,Delhi,Beauty,19775,2024-01-30,UPI,Returning
+1014,22,Female,Delhi,Clothing,36784,2024-02-14,UPI,New
+1812,58,Female,Chennai,Clothing,39678,2024-10-01,Credit Card,Returning
+1064,29,Male,Hyderabad,Beauty,33321,2024-02-03,Credit Card,New
+1856,43,Female,Bangalore,Beauty,17499,2024-05-20,Credit Card,Returning
+1838,63,Female,Hyderabad,Sports,39212,2024-11-13,Debit Card,New
+1520,51,Male,Chennai,Beauty,40672,2024-08-08,UPI,New
+1343,31,Female,Delhi,Sports,34222,2024-12-21,Debit Card,New
+1128,43,Male,Hyderabad,Home,11125,2024-01-22,Debit Card,Returning
+1647,62,Female,Hyderabad,Clothing,2129,2024-06-28,Cash,New
+1471,44,Female,Delhi,Beauty,11473,2024-11-24,UPI,New
+1062,26,Male,Bangalore,Clothing,7359,2024-08-18,UPI,New
+1138,43,Male,Delhi,Clothing,42109,2024-02-07,Credit Card,New
+1498,64,Female,Hyderabad,Clothing,43807,2024-03-10,Credit Card,Returning
+1592,39,Female,Bangalore,Home,45950,2024-04-25,Cash,New
+1391,64,Female,Bangalore,Electronics,36546,2024-08-26,Debit Card,Returning
+1674,47,Male,Delhi,Beauty,22339,2024-11-30,Credit Card,Returning
+1418,60,Female,Hyderabad,Electronics,27716,2024-05-27,Credit Card,Returning
+1288,34,Male,Chennai,Electronics,19445,2024-01-09,UPI,Returning
+1378,43,Male,Hyderabad,Electronics,7039,2024-10-14,UPI,New
+1772,53,Female,Mumbai,Clothing,34125,2024-02-19,Credit Card,Returning
+1489,18,Male,Chennai,Sports,5386,2024-12-03,UPI,Returning
+1230,25,Female,Bangalore,Clothing,46213,2024-01-05,Cash,Returning
+1040,52,Female,Chennai,Clothing,7985,2024-12-08,Credit Card,Returning
+1027,32,Female,Bangalore,Electronics,31955,2024-05-05,UPI,New
+1134,64,Female,Bangalore,Clothing,46948,2024-03-15,Cash,New
+1200,39,Female,Chennai,Electronics,17267,2024-06-13,UPI,Returning
+1839,31,Male,Bangalore,Sports,47665,2024-10-04,UPI,Returning
+1779,43,Male,Bangalore,Beauty,28953,2024-11-19,UPI,Returning
+1929,45,Female,Mumbai,Electronics,11244,2024-10-26,Credit Card,New
+1032,40,Female,Hyderabad,Sports,37602,2024-10-16,Debit Card,New
+1047,31,Male,Hyderabad,Beauty,12726,2024-03-17,UPI,New
+1502,41,Male,Mumbai,Home,28369,2024-10-24,Cash,New
+1406,19,Male,Chennai,Electronics,23088,2024-05-16,Credit Card,New
+1573,62,Male,Delhi,Electronics,13940,2024-04-15,Credit Card,Returning
+1727,43,Female,Delhi,Home,32209,2024-04-04,Cash,New
+1804,31,Female,Delhi,Home,48288,2024-05-14,UPI,New
+1098,24,Male,Mumbai,Electronics,22995,2024-03-08,Debit Card,Returning
+1683,20,Female,Mumbai,Home,37519,2024-05-26,UPI,New
+1871,64,Male,Bangalore,Clothing,45448,2024-06-07,Cash,New
+1725,40,Female,Delhi,Beauty,49408,2024-06-11,Credit Card,New
+1986,63,Male,Chennai,Beauty,1422,2024-12-06,Debit Card,Returning
+1546,60,Female,Chennai,Beauty,28026,2024-07-07,Credit Card,New
+1960,64,Male,Delhi,Clothing,8457,2024-12-04,Cash,Returning
+1738,62,Male,Delhi,Home,49064,2024-04-04,UPI,Returning
+1612,35,Female,Delhi,Sports,34498,2024-06-29,Debit Card,New
+1942,55,Male,Mumbai,Home,43895,2024-10-14,Credit Card,New
+1461,52,Female,Mumbai,Electronics,24531,2024-11-17,Credit Card,New
+1642,32,Female,Mumbai,Beauty,10506,2024-07-05,Credit Card,New
+1768,42,Male,Hyderabad,Home,38201,2024-05-17,UPI,Returning
+1004,54,Female,Chennai,Sports,47563,2024-05-09,Debit Card,New
+1217,45,Female,Chennai,Electronics,26439,2024-07-12,UPI,Returning
+1502,27,Female,Bangalore,Clothing,49645,2024-11-11,UPI,Returning
+1766,56,Female,Mumbai,Clothing,20824,2024-09-29,UPI,Returning
+1397,34,Female,Hyderabad,Sports,23367,2024-12-17,Cash,Returning
+1870,56,Male,Hyderabad,Electronics,703,2024-05-23,Cash,Returning
+1794,39,Female,Chennai,Beauty,17044,2024-01-16,Cash,New
+1392,43,Female,Mumbai,Home,16399,2024-10-28,Debit Card,Returning
+1206,61,Female,Bangalore,Electronics,29563,2024-09-01,UPI,Returning
+1014,42,Female,Mumbai,Clothing,25844,2024-04-16,UPI,New
+1857,34,Female,Delhi,Sports,4248,2024-03-28,Cash,New
+1553,30,Male,Mumbai,Sports,39986,2024-05-08,UPI,Returning
+1891,37,Female,Delhi,Home,1593,2024-12-06,UPI,Returning
+1460,42,Male,Delhi,Sports,15728,2024-01-04,Credit Card,New
+1690,21,Male,Bangalore,Sports,21384,2024-11-22,UPI,Returning
+1574,27,Male,Chennai,Electronics,25683,2024-11-01,Credit Card,New
+1863,20,Male,Mumbai,Beauty,16534,2024-04-04,UPI,New
+1742,58,Female,Delhi,Home,6210,2024-07-27,Debit Card,Returning
+1240,62,Male,Mumbai,Electronics,43000,2024-08-12,Cash,New
+1563,35,Male,Chennai,Beauty,19759,2024-12-13,Credit Card,Returning
+1095,64,Female,Chennai,Electronics,36459,2024-11-16,Cash,Returning
+1899,53,Female,Hyderabad,Electronics,33957,2024-02-16,Credit Card,Returning
+1733,64,Female,Chennai,Sports,20643,2024-06-29,Credit Card,New
+1484,39,Male,Bangalore,Beauty,2603,2024-04-15,Credit Card,Returning
+1406,51,Female,Delhi,Home,865,2024-07-17,Debit Card,New
+1230,64,Female,Hyderabad,Home,47278,2024-04-15,UPI,Returning
+1748,25,Male,Bangalore,Beauty,45035,2024-10-06,Credit Card,Returning
+1654,57,Female,Mumbai,Sports,16603,2024-09-16,Debit Card,New
+1170,61,Female,Delhi,Clothing,33010,2024-04-17,Credit Card,Returning
+1540,36,Female,Chennai,Electronics,24976,2024-01-19,UPI,Returning
+1035,59,Female,Delhi,Sports,13242,2024-10-22,Credit Card,New
+1524,58,Male,Mumbai,Beauty,12891,2024-11-01,Debit Card,New
+1159,54,Female,Hyderabad,Electronics,37440,2024-06-19,UPI,New
+1838,23,Female,Hyderabad,Home,29401,2024-11-26,Debit Card,Returning
+1698,43,Male,Hyderabad,Clothing,32501,2024-07-13,UPI,New
+1242,51,Female,Chennai,Home,16123,2024-01-12,UPI,New
+1085,62,Male,Bangalore,Beauty,2878,2024-07-13,Cash,Returning
+1795,23,Female,Bangalore,Electronics,21872,2024-10-09,Cash,New
+1577,54,Male,Delhi,Beauty,45299,2024-06-30,Cash,Returning
+1681,50,Male,Chennai,Electronics,38937,2024-10-31,UPI,Returning
+1556,39,Male,Hyderabad,Sports,36003,2024-05-23,Credit Card,New
+1573,38,Male,Hyderabad,Clothing,31246,2024-11-11,Debit Card,Returning
+1952,23,Female,Mumbai,Sports,28423,2024-06-30,Debit Card,New
+1645,23,Male,Mumbai,Sports,10367,2024-01-30,Debit Card,New
+1795,21,Female,Hyderabad,Beauty,41758,2024-03-24,Cash,New
+1027,47,Male,Hyderabad,Clothing,34224,2024-06-14,UPI,New
+1619,28,Male,Chennai,Electronics,9806,2024-10-10,Cash,Returning
+1555,47,Male,Bangalore,Electronics,39891,2024-10-07,Credit Card,Returning
+1339,48,Female,Mumbai,Home,15408,2024-04-05,UPI,New
+1797,41,Male,Bangalore,Electronics,27581,2024-09-22,Debit Card,New
+1957,26,Female,Chennai,Beauty,37728,2024-10-24,Cash,Returning
+1330,20,Female,Hyderabad,Sports,23886,2024-10-22,Cash,New
+1639,48,Female,Bangalore,Sports,47254,2024-08-12,Credit Card,Returning
+1505,57,Female,Hyderabad,Sports,45906,2024-11-28,Credit Card,New
+1347,54,Female,Hyderabad,Clothing,28802,2024-12-26,Cash,Returning
+1472,53,Female,Delhi,Electronics,19712,2024-02-11,Credit Card,Returning
+1230,41,Female,Bangalore,Beauty,36118,2024-10-29,Debit Card,Returning
+1189,48,Female,Bangalore,Clothing,46567,2024-09-02,Credit Card,New
+1224,23,Female,Hyderabad,Home,11198,2024-07-26,Credit Card,New
+1384,19,Male,Chennai,Beauty,5094,2024-08-24,Cash,New
+1376,37,Male,Delhi,Beauty,26025,2024-01-22,Cash,New
+1282,45,Male,Hyderabad,Beauty,14782,2024-07-03,UPI,New
+1957,28,Male,Mumbai,Sports,49553,2024-08-29,UPI,Returning
+1632,21,Male,Mumbai,Beauty,14834,2024-12-28,Cash,Returning
+1627,32,Female,Delhi,Electronics,29679,2024-10-09,Credit Card,Returning
+1972,23,Female,Chennai,Beauty,7144,2024-02-10,Credit Card,Returning
+1744,47,Female,Hyderabad,Sports,36118,2024-12-01,UPI,Returning
+1258,55,Female,Bangalore,Beauty,48201,2024-06-10,UPI,Returning
+1358,19,Female,Delhi,Home,33433,2024-06-08,UPI,Returning
+1709,32,Female,Chennai,Home,43969,2024-03-29,Debit Card,New
+1455,28,Female,Bangalore,Sports,34187,2024-11-17,Debit Card,Returning
+1410,25,Male,Mumbai,Electronics,41573,2024-01-12,UPI,New
+1648,43,Male,Mumbai,Electronics,17875,2024-03-13,Credit Card,Returning
+1317,62,Male,Bangalore,Clothing,48983,2024-03-16,UPI,Returning
+1676,61,Male,Delhi,Sports,31426,2024-12-11,Debit Card,New
+1224,22,Female,Mumbai,Beauty,37107,2024-07-19,Credit Card,Returning
+1818,23,Female,Hyderabad,Sports,18142,2024-01-10,Debit Card,New
+1233,43,Female,Bangalore,Clothing,24493,2024-12-17,Credit Card,Returning
+1683,21,Male,Bangalore,Sports,44886,2024-08-13,Debit Card,New
+1663,36,Female,Mumbai,Sports,46787,2024-06-24,Credit Card,Returning
+1974,37,Female,Delhi,Clothing,21688,2024-10-02,Credit Card,New
+1826,50,Female,Hyderabad,Electronics,33096,2024-02-08,Credit Card,New
+1373,37,Male,Delhi,Beauty,28272,2024-02-29,Credit Card,Returning
+1671,29,Female,Chennai,Clothing,31357,2024-03-06,Cash,Returning
+1607,64,Male,Chennai,Home,11276,2024-11-16,Debit Card,New
+1471,18,Male,Mumbai,Electronics,33335,2024-05-03,Debit Card,Returning
+1232,43,Male,Mumbai,Home,10288,2024-06-12,Cash,New
+1691,31,Male,Mumbai,Electronics,6160,2024-06-07,Credit Card,Returning
+1112,55,Female,Chennai,Beauty,4978,2024-02-26,Credit Card,New
+1829,54,Male,Delhi,Beauty,8710,2024-03-18,Debit Card,Returning
+1496,28,Male,Delhi,Sports,11422,2024-07-12,Cash,New
+1441,53,Female,Mumbai,Home,36789,2024-10-11,Credit Card,Returning
+1563,30,Female,Hyderabad,Electronics,33840,2024-01-15,Credit Card,New
+1267,60,Male,Delhi,Beauty,40350,2024-01-12,Credit Card,New
+1509,20,Female,Chennai,Clothing,38663,2024-04-10,UPI,Returning
+1806,50,Male,Bangalore,Beauty,48675,2024-06-04,Cash,Returning
+1385,23,Male,Bangalore,Clothing,19142,2024-12-05,Credit Card,New
+1386,27,Male,Bangalore,Electronics,11594,2024-05-04,UPI,New
+1112,22,Male,Hyderabad,Beauty,22923,2024-12-24,Cash,New
+1612,40,Female,Mumbai,Beauty,33918,2024-10-06,Credit Card,New
+1624,27,Male,Chennai,Electronics,6241,2024-04-19,Debit Card,Returning
+1951,61,Female,Hyderabad,Beauty,46549,2024-11-29,UPI,New
+1080,19,Female,Chennai,Clothing,7338,2024-12-22,UPI,New
+1698,30,Female,Chennai,Beauty,3762,2024-05-25,Credit Card,New
+1112,57,Female,Mumbai,Home,5496,2024-08-03,Credit Card,Returning
+1001,19,Male,Bangalore,Sports,45094,2024-06-10,UPI,New
+1641,37,Female,Mumbai,Clothing,22664,2024-05-07,Debit Card,Returning
+1219,18,Male,Hyderabad,Home,36095,2024-11-09,Debit Card,Returning
+1565,54,Female,Hyderabad,Electronics,30757,2024-11-27,Cash,Returning
+1854,26,Female,Hyderabad,Clothing,14711,2024-05-29,Credit Card,Returning
+1996,34,Male,Mumbai,Sports,30953,2024-02-05,Debit Card,Returning
+1735,26,Male,Chennai,Sports,5732,2024-06-21,Cash,Returning
+1224,28,Male,Chennai,Electronics,2717,2024-01-22,Debit Card,Returning
+1384,32,Female,Delhi,Electronics,24729,2024-07-24,Credit Card,New
+1402,41,Female,Hyderabad,Clothing,14732,2024-05-06,Cash,New
+1637,55,Male,Chennai,Beauty,26113,2024-12-01,Cash,Returning
+1129,52,Male,Delhi,Electronics,14526,2024-12-21,Cash,New
+1052,47,Male,Chennai,Beauty,29054,2024-08-04,Debit Card,New
+1683,48,Male,Hyderabad,Home,31408,2024-04-05,Credit Card,Returning
+1729,22,Female,Bangalore,Sports,20110,2024-06-12,Cash,New
+1671,61,Male,Hyderabad,Beauty,47146,2024-05-27,UPI,Returning
+1709,31,Male,Mumbai,Sports,40105,2024-01-18,Credit Card,New
+1415,28,Male,Chennai,Beauty,7531,2024-10-20,UPI,Returning
+1246,26,Male,Chennai,Home,48074,2024-07-13,UPI,Returning
+1835,51,Female,Mumbai,Electronics,26015,2024-05-30,Cash,New
+1438,29,Male,Mumbai,Home,36984,2024-12-30,Cash,New
+1202,52,Female,Bangalore,Electronics,36682,2024-05-02,Debit Card,Returning
+1183,52,Male,Chennai,Electronics,1070,2024-07-05,Debit Card,Returning
+1122,18,Male,Chennai,Sports,32754,2024-05-28,Debit Card,Returning
+1400,57,Female,Bangalore,Home,19788,2024-04-13,Credit Card,New
+1766,39,Male,Delhi,Beauty,13788,2024-08-30,Debit Card,New
+1293,46,Female,Bangalore,Home,30377,2024-08-18,UPI,New
+1279,25,Female,Hyderabad,Sports,19389,2024-07-24,Debit Card,New
+1836,28,Male,Chennai,Electronics,1417,2024-07-16,Cash,Returning
+1883,58,Female,Mumbai,Sports,10566,2024-12-02,Debit Card,Returning
+1609,54,Female,Hyderabad,Clothing,30004,2024-03-27,Credit Card,Returning
+1197,31,Female,Chennai,Clothing,7482,2024-05-21,Credit Card,Returning
+1981,47,Female,Bangalore,Beauty,39604,2024-11-12,UPI,New
+1906,52,Female,Hyderabad,Sports,18562,2024-07-17,Credit Card,Returning
+1510,38,Female,Chennai,Beauty,17499,2024-02-15,Debit Card,Returning
+1751,54,Female,Delhi,Beauty,10441,2024-10-14,Cash,New
+1143,22,Female,Delhi,Clothing,23970,2024-01-15,Credit Card,New
+1608,36,Male,Mumbai,Beauty,45648,2024-02-13,UPI,Returning
+1200,31,Male,Chennai,Clothing,21633,2024-06-17,Debit Card,New
+1123,43,Female,Delhi,Electronics,44935,2024-11-05,UPI,Returning
+1186,21,Male,Bangalore,Sports,5029,2024-02-13,Credit Card,New
+1325,42,Female,Chennai,Beauty,18019,2024-04-07,Credit Card,New
+1463,62,Female,Bangalore,Clothing,12692,2024-09-17,UPI,Returning
+1348,59,Male,Bangalore,Home,9066,2024-04-18,Debit Card,New
+1770,42,Female,Delhi,Beauty,7726,2024-10-09,Credit Card,Returning
+1659,35,Female,Chennai,Electronics,38430,2024-12-08,Cash,New
+1763,57,Female,Hyderabad,Electronics,49858,2024-04-13,Credit Card,New
+1954,25,Female,Delhi,Home,21759,2024-09-12,Debit Card,New
+1931,56,Male,Delhi,Clothing,34587,2024-07-24,Credit Card,New
+1402,57,Female,Chennai,Beauty,1641,2024-11-30,UPI,New
+1345,31,Female,Chennai,Clothing,5127,2024-02-12,Credit Card,Returning
+1962,49,Female,Bangalore,Electronics,47769,2024-12-18,Credit Card,New
+1510,55,Male,Chennai,Clothing,3190,2024-09-01,Debit Card,Returning
+1146,50,Female,Bangalore,Electronics,40591,2024-10-13,UPI,New
+1147,40,Male,Delhi,Clothing,3755,2024-12-20,Debit Card,Returning
+1863,32,Male,Mumbai,Home,5713,2024-09-29,Credit Card,New
+1710,50,Female,Hyderabad,Sports,37376,2024-03-23,Cash,Returning
+1819,42,Female,Delhi,Home,19904,2024-04-19,Credit Card,Returning
+1488,34,Male,Chennai,Home,25880,2024-07-08,Debit Card,New
+1928,50,Female,Hyderabad,Sports,26020,2024-10-14,Cash,New
+1935,64,Male,Mumbai,Sports,19673,2024-09-07,Debit Card,New
+1639,19,Male,Mumbai,Beauty,24489,2024-07-30,Debit Card,Returning
+1550,31,Female,Bangalore,Beauty,43070,2024-10-17,UPI,Returning
+1337,57,Female,Hyderabad,Home,25019,2024-05-12,Cash,New
+1871,57,Male,Bangalore,Home,22939,2024-07-19,Credit Card,New
+1640,56,Male,Delhi,Electronics,11913,2024-10-11,Debit Card,Returning
+1778,23,Male,Hyderabad,Electronics,15495,2024-11-21,Credit Card,Returning
+1987,23,Male,Delhi,Beauty,24059,2024-04-04,UPI,New
+1952,20,Female,Bangalore,Beauty,45851,2024-10-04,UPI,Returning
+1472,24,Female,Hyderabad,Electronics,24013,2024-11-20,Cash,New
+1945,25,Female,Bangalore,Electronics,5521,2024-08-06,UPI,New
+1150,59,Female,Hyderabad,Clothing,32964,2024-03-29,UPI,New
+1414,32,Female,Bangalore,Clothing,21619,2024-03-12,Credit Card,Returning
+1989,64,Male,Mumbai,Electronics,29799,2024-09-03,UPI,Returning
+1297,46,Female,Bangalore,Clothing,39850,2024-05-08,UPI,Returning
+1610,50,Female,Mumbai,Sports,46723,2024-07-30,Debit Card,Returning
+1262,47,Female,Bangalore,Beauty,26017,2024-12-08,UPI,New
+1763,56,Female,Hyderabad,Beauty,13617,2024-04-05,Debit Card,Returning
+1143,44,Female,Hyderabad,Electronics,22750,2024-03-15,UPI,New
+1345,53,Male,Hyderabad,Home,19450,2024-02-23,UPI,New
+1623,46,Male,Chennai,Electronics,17859,2024-12-09,Cash,New
+1571,55,Male,Delhi,Clothing,24096,2024-02-23,Cash,Returning
+1880,50,Female,Hyderabad,Home,26030,2024-08-05,Debit Card,New
+1001,54,Male,Mumbai,Clothing,1762,2024-01-16,UPI,New
+1896,44,Male,Hyderabad,Sports,40650,2024-04-08,Credit Card,Returning
+1303,50,Female,Chennai,Clothing,23115,2024-01-20,Cash,New
+1253,21,Female,Mumbai,Sports,3827,2024-02-15,Credit Card,Returning
+1651,39,Female,Chennai,Sports,30268,2024-07-11,Cash,Returning
+1452,19,Male,Mumbai,Clothing,29350,2024-02-27,Cash,Returning
+1036,27,Male,Bangalore,Clothing,43288,2024-04-20,UPI,New
+1159,22,Female,Delhi,Sports,17348,2024-05-08,Cash,Returning
+1008,27,Female,Delhi,Home,47330,2024-12-02,Credit Card,Returning
+1232,50,Male,Chennai,Sports,40042,2024-07-12,Cash,Returning
+1098,55,Male,Delhi,Beauty,15660,2024-12-05,Debit Card,Returning
+1658,30,Female,Chennai,Sports,34498,2024-11-21,UPI,New
+1815,48,Female,Chennai,Home,27730,2024-01-08,UPI,Returning
+1207,64,Male,Chennai,Beauty,9576,2024-01-29,Debit Card,New
+1130,53,Female,Delhi,Electronics,4305,2024-04-21,Debit Card,Returning
+1403,62,Male,Chennai,Electronics,31585,2024-06-09,Debit Card,New
+1151,41,Male,Delhi,Home,15215,2024-05-10,Cash,Returning
+1053,32,Male,Chennai,Sports,6250,2024-07-06,UPI,New
+1119,46,Male,Hyderabad,Clothing,48895,2024-06-11,Debit Card,Returning
+1672,25,Female,Chennai,Home,13732,2024-07-15,Cash,New
+1919,22,Female,Mumbai,Beauty,36403,2024-12-29,Debit Card,New
+1627,46,Male,Chennai,Beauty,7453,2024-07-22,Credit Card,New
+1586,64,Male,Bangalore,Electronics,32593,2024-07-30,Credit Card,Returning
+1624,21,Male,Chennai,Beauty,26000,2024-04-18,UPI,New
+1967,29,Male,Mumbai,Home,22918,2024-10-02,Cash,New
+1419,62,Male,Mumbai,Beauty,34814,2024-03-13,Credit Card,New
+1421,19,Female,Delhi,Home,48725,2024-06-15,Credit Card,New
+1103,44,Female,Hyderabad,Clothing,22949,2024-09-16,Cash,Returning
+1851,48,Female,Chennai,Electronics,17978,2024-08-30,Debit Card,New
+1253,53,Female,Delhi,Beauty,35679,2024-10-01,Cash,New
+1226,53,Male,Hyderabad,Home,47381,2024-04-11,Debit Card,New
+1111,43,Male,Chennai,Sports,25838,2024-06-21,Credit Card,Returning
+1509,60,Male,Bangalore,Electronics,27399,2024-06-19,Credit Card,New
+1472,44,Male,Chennai,Clothing,4645,2024-05-20,Credit Card,New
+1098,22,Male,Mumbai,Home,32601,2024-07-06,UPI,New
+1152,37,Female,Mumbai,Clothing,3275,2024-03-26,UPI,New
+1860,28,Male,Bangalore,Clothing,46461,2024-02-21,UPI,Returning
+1913,27,Female,Delhi,Beauty,32147,2024-04-20,Cash,New
+1895,57,Female,Hyderabad,Beauty,46119,2024-12-30,Credit Card,New
+1877,55,Female,Chennai,Home,46338,2024-12-07,Credit Card,Returning
+1337,23,Female,Mumbai,Sports,20039,2024-02-12,Cash,Returning
+1705,25,Male,Delhi,Home,37238,2024-07-29,UPI,Returning
+1821,40,Female,Bangalore,Sports,27116,2024-07-18,Cash,New
+1162,64,Female,Mumbai,Clothing,14619,2024-10-24,UPI,Returning
+1719,43,Female,Bangalore,Electronics,25659,2024-12-11,Credit Card,New
+1956,63,Male,Chennai,Home,37599,2024-08-27,Debit Card,Returning
+1680,60,Male,Hyderabad,Home,10795,2024-04-24,UPI,New
+1995,29,Male,Mumbai,Sports,35210,2024-01-26,Credit Card,Returning
+1160,43,Female,Mumbai,Clothing,25185,2024-10-25,Credit Card,New
+1579,30,Female,Chennai,Clothing,49843,2024-03-17,Debit Card,Returning
+1800,57,Male,Delhi,Sports,25979,2024-05-16,Credit Card,New
+1397,35,Female,Hyderabad,Clothing,46672,2024-01-20,Credit Card,New
+1276,42,Male,Mumbai,Beauty,34129,2024-07-29,UPI,New
+1815,50,Male,Hyderabad,Electronics,42543,2024-08-27,UPI,New
+1915,64,Female,Mumbai,Home,17533,2024-02-08,Debit Card,New
+1503,57,Female,Hyderabad,Electronics,37402,2024-09-24,Debit Card,New
+1895,60,Female,Bangalore,Home,45071,2024-07-25,Credit Card,New
+1391,29,Female,Mumbai,Beauty,15908,2024-09-23,UPI,New
+1134,61,Male,Hyderabad,Clothing,17920,2024-06-02,Debit Card,Returning
+1194,53,Male,Delhi,Sports,16851,2024-02-11,Debit Card,New
+1400,21,Male,Bangalore,Beauty,4631,2024-01-11,Cash,New
+1639,22,Male,Bangalore,Electronics,45325,2024-10-20,Debit Card,Returning
+1032,54,Male,Delhi,Sports,11849,2024-04-07,Credit Card,New
+1687,25,Female,Hyderabad,Clothing,44754,2024-10-01,UPI,Returning
+1459,59,Male,Chennai,Beauty,38725,2024-08-17,Debit Card,New
+1954,45,Male,Delhi,Sports,39347,2024-08-07,Cash,Returning
+1882,48,Male,Hyderabad,Beauty,12953,2024-03-05,UPI,Returning
+1469,26,Female,Delhi,Beauty,19314,2024-12-20,Debit Card,New
+1374,46,Female,Delhi,Clothing,18763,2024-08-19,Cash,Returning
+1021,31,Female,Mumbai,Home,12658,2024-11-23,Debit Card,New
+1749,57,Female,Hyderabad,Sports,16235,2024-02-21,UPI,New
+1669,58,Male,Chennai,Clothing,16330,2024-09-19,UPI,New
+1037,39,Male,Mumbai,Beauty,48393,2024-09-23,UPI,New
+1229,28,Female,Delhi,Clothing,45173,2024-12-24,Credit Card,Returning
+1364,40,Female,Delhi,Home,24426,2024-11-12,Debit Card,New
+1562,18,Male,Delhi,Sports,45566,2024-11-19,Credit Card,Returning
+1437,63,Male,Hyderabad,Home,35279,2024-06-02,UPI,Returning
+1775,54,Female,Hyderabad,Electronics,3873,2024-12-23,Cash,New
+1282,38,Female,Mumbai,Sports,10835,2024-05-19,Debit Card,New
+1026,43,Female,Chennai,Home,24241,2024-02-20,Credit Card,New
+1225,63,Female,Mumbai,Beauty,11192,2024-04-26,Debit Card,New
+1276,53,Male,Bangalore,Sports,47795,2024-02-15,Cash,Returning
+1797,40,Male,Delhi,Sports,46041,2024-11-04,Credit Card,New
+1608,18,Male,Delhi,Clothing,34557,2024-03-28,UPI,Returning
+1283,57,Female,Delhi,Beauty,1947,2024-07-26,Credit Card,New
+1878,32,Female,Mumbai,Electronics,20083,2024-09-25,Debit Card,New
+1959,38,Male,Mumbai,Home,23265,2024-03-29,Debit Card,New
+1480,64,Male,Delhi,Clothing,24406,2024-04-27,Debit Card,New
+1452,26,Male,Mumbai,Home,20067,2024-02-23,Debit Card,Returning
+1828,26,Male,Hyderabad,Electronics,14639,2024-04-25,UPI,Returning
+1815,27,Female,Hyderabad,Electronics,47025,2024-04-27,Credit Card,New
+1658,43,Male,Mumbai,Sports,38730,2024-09-16,UPI,Returning
+1515,58,Male,Delhi,Electronics,20020,2024-03-15,UPI,Returning
+1546,52,Male,Mumbai,Home,20202,2024-10-31,UPI,New
+1191,42,Male,Mumbai,Beauty,26066,2024-01-07,Debit Card,New
+1048,43,Male,Mumbai,Beauty,8157,2024-05-01,Debit Card,Returning
+1511,28,Male,Bangalore,Sports,38188,2024-01-11,Debit Card,Returning
+1016,55,Male,Hyderabad,Home,30634,2024-12-13,Credit Card,Returning
+1171,19,Female,Chennai,Home,10845,2024-08-02,Cash,Returning
+1219,24,Female,Chennai,Electronics,41685,2024-10-05,Debit Card,New
+1157,35,Female,Bangalore,Home,27913,2024-01-28,Credit Card,New
+1476,44,Female,Mumbai,Clothing,5708,2024-08-22,Debit Card,Returning
+1045,51,Male,Bangalore,Electronics,33955,2024-11-08,Debit Card,New
+1372,44,Female,Bangalore,Clothing,28518,2024-01-26,UPI,Returning
+1517,34,Female,Delhi,Sports,46491,2024-02-23,UPI,Returning
+1098,60,Male,Hyderabad,Beauty,8580,2024-01-29,UPI,New
+1891,61,Male,Chennai,Sports,22402,2024-12-18,Credit Card,Returning
+1744,41,Female,Mumbai,Beauty,9986,2024-06-12,Cash,Returning
+1036,42,Female,Chennai,Sports,39362,2024-09-26,Cash,New
+1279,24,Male,Chennai,Home,21658,2024-11-29,Credit Card,New
+1348,23,Female,Hyderabad,Clothing,40960,2024-02-04,Debit Card,Returning
+1496,41,Male,Chennai,Beauty,44356,2024-10-12,Credit Card,Returning
+1301,50,Male,Chennai,Electronics,36371,2024-12-13,Debit Card,New
+1180,46,Male,Bangalore,Clothing,35708,2024-09-29,Credit Card,Returning
+1606,60,Male,Hyderabad,Electronics,21019,2024-07-26,Credit Card,Returning
+1098,39,Female,Delhi,Clothing,31879,2024-08-25,Credit Card,New
+1699,43,Male,Mumbai,Clothing,28878,2024-04-02,Cash,New
+1992,45,Male,Chennai,Sports,40392,2024-06-21,UPI,New
+1115,38,Female,Mumbai,Beauty,14531,2024-03-19,Credit Card,New
+1190,24,Male,Delhi,Beauty,15036,2024-04-19,Cash,New
+1252,34,Female,Mumbai,Clothing,946,2024-08-04,UPI,New
+1980,37,Female,Delhi,Home,37183,2024-12-23,UPI,Returning
+1927,58,Female,Bangalore,Home,49055,2024-04-15,Credit Card,Returning
+1982,37,Male,Chennai,Electronics,18118,2024-02-16,Debit Card,New
+1160,39,Female,Delhi,Electronics,7087,2024-06-29,Debit Card,New
+1255,45,Female,Mumbai,Sports,31980,2024-03-04,Debit Card,Returning
+1322,57,Male,Chennai,Clothing,33494,2024-09-02,Credit Card,Returning
+1127,24,Female,Bangalore,Electronics,21027,2024-08-31,Debit Card,Returning
+1017,18,Female,Chennai,Electronics,24069,2024-11-15,Cash,New
+1792,49,Female,Delhi,Clothing,11651,2024-03-27,Cash,New
+1734,30,Female,Bangalore,Sports,6058,2024-08-04,Cash,Returning
+1565,47,Female,Mumbai,Electronics,45239,2024-01-07,Cash,New
+1569,40,Male,Bangalore,Sports,33454,2024-10-04,UPI,New
+1322,36,Female,Bangalore,Beauty,47948,2024-12-02,Cash,New
+1871,49,Female,Hyderabad,Sports,47827,2024-07-28,Debit Card,Returning
+1685,47,Male,Bangalore,Home,44337,2024-06-17,Credit Card,Returning
+1791,46,Male,Bangalore,Home,35803,2024-11-25,Debit Card,New
+1625,62,Male,Chennai,Sports,35200,2024-05-17,Cash,New
+1287,46,Female,Mumbai,Home,28000,2024-11-01,UPI,New
+1942,47,Male,Chennai,Beauty,2532,2024-08-17,Cash,New
+1853,33,Female,Chennai,Clothing,1752,2024-11-03,Credit Card,New
+1662,57,Female,Delhi,Home,6009,2024-06-09,Debit Card,Returning
+1961,36,Male,Chennai,Home,38342,2024-01-01,Credit Card,New
+1638,35,Male,Hyderabad,Sports,14400,2024-08-23,Credit Card,New
+1154,18,Female,Hyderabad,Beauty,15023,2024-07-06,Credit Card,New
+1489,31,Male,Delhi,Clothing,2381,2024-01-04,Debit Card,Returning
+1385,64,Female,Mumbai,Sports,33537,2024-05-11,Cash,Returning
+1985,19,Male,Mumbai,Sports,2130,2024-08-05,Credit Card,New
+1784,45,Male,Chennai,Beauty,21289,2024-09-16,Debit Card,Returning
+1103,47,Male,Chennai,Clothing,23023,2024-01-01,UPI,Returning
+1928,55,Female,Chennai,Beauty,18458,2024-03-11,Debit Card,Returning
+1392,21,Male,Mumbai,Clothing,46651,2024-06-26,UPI,Returning
+1810,18,Female,Bangalore,Beauty,49420,2024-07-07,Debit Card,Returning
+1245,25,Female,Hyderabad,Sports,44352,2024-10-17,Cash,Returning
+1175,46,Female,Bangalore,Sports,2195,2024-01-08,Credit Card,New
+1038,56,Female,Bangalore,Electronics,15321,2024-09-09,Cash,Returning
+1476,20,Male,Mumbai,Home,3762,2024-10-18,Debit Card,Returning
+1681,49,Female,Bangalore,Beauty,1945,2024-08-31,Credit Card,New
+1758,27,Female,Delhi,Electronics,16936,2024-05-02,UPI,New
+1537,27,Male,Chennai,Home,10449,2024-10-25,Debit Card,New
+1866,36,Female,Delhi,Beauty,24463,2024-10-09,Credit Card,New
+1817,63,Male,Hyderabad,Clothing,30432,2024-02-01,UPI,Returning
+1920,51,Female,Chennai,Home,7401,2024-11-29,UPI,Returning
+1407,50,Male,Bangalore,Sports,33987,2024-05-25,Cash,Returning
+1524,40,Female,Hyderabad,Electronics,9097,2024-06-04,Debit Card,Returning
+1827,45,Male,Chennai,Home,7355,2024-01-16,UPI,New
+1505,49,Female,Bangalore,Home,19178,2024-12-20,Credit Card,Returning
+1902,24,Female,Delhi,Sports,8763,2024-02-16,UPI,Returning
+1824,46,Male,Chennai,Beauty,47788,2024-09-07,UPI,New
+1035,25,Male,Bangalore,Clothing,26305,2024-07-05,Cash,Returning
+1684,18,Male,Delhi,Sports,26643,2024-01-31,Cash,Returning
+1019,20,Male,Hyderabad,Clothing,12374,2024-09-16,Credit Card,Returning
+1320,41,Female,Hyderabad,Beauty,28029,2024-01-17,Cash,Returning
+1775,40,Female,Hyderabad,Home,21366,2024-02-08,UPI,New
+1511,25,Male,Hyderabad,Clothing,14579,2024-10-30,UPI,New
+1399,64,Female,Mumbai,Electronics,7743,2024-02-08,Cash,New
+1653,54,Male,Chennai,Electronics,30372,2024-05-11,UPI,New
+1971,20,Male,Chennai,Sports,9518,2024-01-30,UPI,New
+1882,50,Female,Mumbai,Beauty,12600,2024-06-06,Credit Card,Returning
+1470,45,Female,Bangalore,Sports,49959,2024-10-04,Cash,Returning
+1142,64,Female,Bangalore,Sports,20300,2024-07-21,UPI,New
+1091,25,Female,Hyderabad,Sports,27410,2024-03-06,Cash,New
+1353,51,Female,Delhi,Electronics,29937,2024-04-17,Credit Card,New
+1833,52,Female,Bangalore,Electronics,38088,2024-09-24,Cash,Returning
+1799,49,Female,Delhi,Sports,11501,2024-08-09,UPI,New
+1726,41,Male,Chennai,Electronics,47175,2024-10-18,Cash,Returning
+1958,31,Male,Delhi,Beauty,20442,2024-01-18,UPI,Returning
+1853,49,Male,Chennai,Sports,21362,2024-03-30,UPI,Returning
+1050,63,Male,Mumbai,Electronics,12169,2024-06-29,UPI,Returning
+1664,60,Male,Mumbai,Clothing,16416,2024-09-11,Credit Card,New
+1697,33,Female,Hyderabad,Sports,11378,2024-09-09,Cash,Returning
+1574,21,Male,Bangalore,Sports,3485,2024-09-13,Credit Card,Returning
+1189,54,Male,Hyderabad,Beauty,32869,2024-12-11,Cash,New
+1124,38,Male,Chennai,Home,8612,2024-03-27,Credit Card,Returning
+1149,31,Male,Hyderabad,Home,41735,2024-03-30,Debit Card,Returning
+1313,48,Male,Delhi,Beauty,19431,2024-08-24,UPI,Returning
+1569,35,Male,Chennai,Beauty,27840,2024-03-10,UPI,New
+1341,24,Male,Mumbai,Beauty,836,2024-02-13,Credit Card,Returning
+1304,27,Female,Bangalore,Home,43433,2024-07-18,Debit Card,Returning
+1691,24,Female,Chennai,Beauty,19863,2024-05-31,UPI,New
+1681,50,Male,Chennai,Electronics,46036,2024-03-26,Cash,New
+1837,40,Female,Delhi,Sports,4468,2024-01-19,Credit Card,Returning
+1782,38,Female,Bangalore,Sports,34178,2024-04-10,UPI,Returning
+1053,36,Female,Mumbai,Clothing,48900,2024-04-04,UPI,New
+1443,36,Female,Chennai,Clothing,16779,2024-09-10,Credit Card,Returning
+1612,53,Male,Chennai,Sports,3629,2024-12-22,Credit Card,New
+1992,46,Female,Delhi,Electronics,38715,2024-01-30,Cash,Returning
+1263,35,Female,Hyderabad,Home,39397,2024-09-05,Cash,New
+1052,19,Female,Mumbai,Home,6350,2024-02-02,UPI,Returning
+1571,18,Male,Bangalore,Electronics,21088,2024-08-16,UPI,New
+1619,64,Male,Chennai,Home,40714,2024-01-12,Credit Card,New
+1004,22,Male,Chennai,Beauty,12449,2024-04-27,UPI,New
+1102,37,Male,Mumbai,Sports,9019,2024-12-15,UPI,New
+1195,28,Male,Hyderabad,Sports,26875,2024-06-03,Credit Card,New
+1773,59,Male,Chennai,Electronics,33582,2024-09-02,UPI,Returning
+1876,19,Male,Mumbai,Home,12237,2024-11-27,UPI,Returning
+1991,20,Female,Delhi,Clothing,1634,2024-09-03,Debit Card,New
+1883,40,Female,Hyderabad,Clothing,11438,2024-01-29,Cash,Returning
+1349,29,Female,Bangalore,Home,24986,2024-06-09,Credit Card,Returning
+1046,37,Male,Chennai,Clothing,48856,2024-08-22,Debit Card,Returning
+1866,22,Male,Mumbai,Electronics,26596,2024-07-08,Cash,Returning
+1822,54,Male,Delhi,Electronics,41615,2024-04-26,Cash,Returning
+1935,55,Male,Bangalore,Home,6092,2024-09-27,Cash,Returning
+1819,47,Male,Mumbai,Clothing,18608,2024-09-14,Debit Card,New
+1655,26,Female,Mumbai,Electronics,17770,2024-06-28,Debit Card,Returning
+1268,51,Female,Bangalore,Electronics,28149,2024-06-20,Cash,Returning
+1369,61,Male,Delhi,Beauty,11497,2024-09-30,UPI,Returning
+1635,52,Male,Delhi,Beauty,33989,2024-09-15,UPI,New
+1105,39,Male,Hyderabad,Electronics,9604,2024-05-14,Debit Card,Returning
+1669,61,Male,Chennai,Home,1370,2024-06-19,Debit Card,Returning
+1658,41,Female,Bangalore,Sports,29184,2024-07-28,Debit Card,Returning
+1656,34,Male,Bangalore,Sports,40019,2024-08-23,Cash,New
+1119,27,Male,Bangalore,Electronics,35024,2024-07-04,UPI,Returning
+1830,47,Male,Delhi,Electronics,31457,2024-12-29,Debit Card,New
+1786,63,Male,Chennai,Electronics,34385,2024-04-04,Debit Card,Returning
+1603,40,Female,Hyderabad,Home,44869,2024-01-11,Credit Card,New
+1057,49,Male,Mumbai,Beauty,36096,2024-03-08,Cash,New
+1950,34,Male,Mumbai,Electronics,30366,2024-07-28,Credit Card,New
+1345,34,Female,Bangalore,Electronics,31176,2024-07-14,UPI,Returning
+1740,31,Female,Chennai,Clothing,48264,2024-04-07,Credit Card,New
+1473,26,Female,Delhi,Home,14378,2024-04-02,Credit Card,New
+1116,57,Male,Chennai,Electronics,40260,2024-01-22,Credit Card,New
+1829,19,Male,Chennai,Clothing,28059,2024-06-20,Cash,New
+1790,62,Female,Delhi,Sports,47046,2024-05-13,UPI,Returning
+1126,42,Female,Bangalore,Electronics,7271,2024-01-25,Credit Card,Returning
+1392,56,Female,Chennai,Electronics,17026,2024-07-03,Cash,Returning
+1907,26,Female,Mumbai,Clothing,30396,2024-03-25,UPI,Returning
+1640,39,Female,Delhi,Home,32423,2024-02-24,Debit Card,New
+1057,60,Female,Hyderabad,Electronics,36703,2024-09-07,Credit Card,Returning
+1633,63,Male,Bangalore,Sports,39890,2024-05-23,UPI,New
+1512,21,Male,Delhi,Electronics,13352,2024-12-16,Credit Card,Returning
+1750,43,Male,Hyderabad,Sports,48074,2024-06-15,Debit Card,Returning
+1801,46,Female,Hyderabad,Beauty,43891,2024-08-11,UPI,Returning
+1095,62,Female,Chennai,Beauty,2348,2024-08-07,Cash,New
+1637,51,Female,Chennai,Sports,31527,2024-06-27,UPI,Returning
+1117,40,Female,Chennai,Home,35964,2024-04-28,Cash,Returning
+1559,54,Female,Delhi,Electronics,34985,2024-09-21,UPI,Returning
+1600,28,Female,Delhi,Electronics,19956,2024-05-29,Cash,New
+1487,23,Male,Bangalore,Beauty,9759,2024-08-02,Debit Card,Returning
+1236,35,Male,Chennai,Sports,36054,2024-07-15,Debit Card,Returning
+1884,38,Female,Hyderabad,Electronics,47422,2024-02-11,Debit Card,New
+1896,59,Male,Mumbai,Electronics,13909,2024-02-22,UPI,New
+1271,53,Female,Bangalore,Home,4291,2024-11-25,Debit Card,Returning
+1188,58,Male,Delhi,Clothing,26364,2024-09-07,Credit Card,Returning
+1998,55,Female,Bangalore,Beauty,37139,2024-10-21,Debit Card,Returning
+1703,51,Female,Bangalore,Beauty,35074,2024-09-27,Cash,New
+1446,34,Male,Bangalore,Clothing,18388,2024-05-02,Cash,New
+1580,54,Male,Bangalore,Electronics,20192,2024-12-04,Cash,New
+1789,42,Female,Mumbai,Home,24001,2024-09-22,UPI,Returning
+1860,55,Female,Chennai,Home,13804,2024-12-13,Credit Card,New
+1246,29,Male,Hyderabad,Beauty,28027,2024-01-29,Debit Card,Returning
+1962,40,Male,Bangalore,Home,18574,2024-02-04,Credit Card,New
+1075,59,Female,Bangalore,Clothing,16049,2024-01-06,Credit Card,New
+1153,39,Male,Bangalore,Electronics,30463,2024-04-20,Cash,New
+1655,38,Female,Chennai,Clothing,26420,2024-10-20,Cash,Returning
+1434,44,Female,Delhi,Sports,31326,2024-03-17,Cash,Returning
+1996,48,Female,Delhi,Beauty,36571,2024-12-14,UPI,Returning
+1085,23,Female,Mumbai,Home,16561,2024-05-26,Credit Card,Returning
+1696,44,Male,Delhi,Sports,29310,2024-03-07,Credit Card,New
+1284,57,Male,Bangalore,Home,48466,2024-01-08,UPI,Returning
+1973,51,Male,Bangalore,Electronics,23300,2024-05-01,UPI,New
+1219,29,Male,Bangalore,Electronics,43923,2024-12-05,UPI,Returning
+1068,62,Male,Mumbai,Electronics,42192,2024-06-23,Credit Card,Returning
+1046,24,Male,Bangalore,Home,10440,2024-06-27,Credit Card,New
+1093,27,Male,Delhi,Sports,4424,2024-03-25,Cash,New
+1749,62,Female,Chennai,Electronics,28554,2024-02-14,Cash,Returning
+1957,34,Male,Chennai,Sports,10283,2024-05-15,Credit Card,Returning
+1452,43,Male,Hyderabad,Home,37753,2024-12-08,Cash,New
+1203,38,Female,Delhi,Sports,45897,2024-01-16,UPI,New
+1911,45,Male,Bangalore,Home,13733,2024-11-28,Debit Card,New
+1217,63,Male,Chennai,Home,46169,2024-07-13,Cash,New
+1473,19,Female,Delhi,Beauty,24984,2024-01-09,Credit Card,New
+1431,60,Male,Chennai,Home,25568,2024-11-11,Cash,Returning
+1340,18,Male,Bangalore,Home,691,2024-11-29,Cash,Returning
+1550,53,Male,Chennai,Clothing,25574,2024-11-28,Cash,Returning
+1611,43,Female,Hyderabad,Electronics,5417,2024-11-22,Debit Card,Returning
+1288,46,Male,Hyderabad,Beauty,39099,2024-01-15,UPI,New
+1253,38,Male,Chennai,Beauty,26332,2024-11-22,Credit Card,New
+1733,28,Female,Delhi,Beauty,43428,2024-04-11,Debit Card,New
+1356,57,Male,Delhi,Clothing,21206,2024-08-13,Credit Card,Returning
+1022,28,Female,Delhi,Home,14182,2024-10-04,Credit Card,New
+1761,53,Female,Chennai,Electronics,27262,2024-04-22,Credit Card,New
+1521,56,Male,Delhi,Sports,23883,2024-01-01,Debit Card,Returning
+1757,57,Female,Bangalore,Home,28296,2024-09-22,UPI,Returning
+1836,52,Female,Hyderabad,Clothing,24166,2024-07-26,Credit Card,Returning
+1099,51,Male,Bangalore,Home,26162,2024-04-19,UPI,New
+1801,64,Female,Delhi,Home,45659,2024-07-18,UPI,New
+1179,41,Female,Bangalore,Clothing,35142,2024-11-01,Cash,Returning
+1222,39,Male,Delhi,Beauty,42330,2024-01-12,Debit Card,Returning
+1905,22,Male,Chennai,Beauty,38031,2024-12-10,Debit Card,New
+1761,50,Male,Bangalore,Electronics,10734,2024-07-06,Cash,Returning
+1658,53,Female,Chennai,Electronics,9721,2024-06-02,Cash,New
+1441,64,Male,Chennai,Beauty,11910,2024-11-29,UPI,Returning
+1607,37,Female,Mumbai,Sports,15019,2024-10-05,Credit Card,Returning
+1768,36,Female,Delhi,Home,1551,2024-06-19,Debit Card,Returning
+1324,52,Female,Hyderabad,Sports,45493,2024-05-13,Credit Card,New
+1515,60,Female,Delhi,Home,10265,2024-01-25,Credit Card,New
+1015,34,Female,Hyderabad,Beauty,11882,2024-01-18,Cash,Returning
+1791,62,Female,Delhi,Electronics,13080,2024-07-08,Credit Card,New
+1335,60,Female,Chennai,Electronics,32823,2024-05-20,UPI,Returning
+1758,51,Male,Bangalore,Sports,45257,2024-02-12,Cash,Returning
+1257,26,Male,Bangalore,Electronics,12439,2024-11-29,Credit Card,New
+1496,43,Female,Mumbai,Beauty,30464,2024-10-10,Cash,New
+1987,19,Female,Hyderabad,Sports,807,2024-05-25,UPI,New
+1895,26,Male,Hyderabad,Home,3859,2024-11-10,UPI,New
+1159,26,Female,Hyderabad,Electronics,30148,2024-11-14,Credit Card,Returning
+1474,57,Male,Chennai,Clothing,36444,2024-04-01,Cash,New
+1851,34,Male,Hyderabad,Electronics,34519,2024-06-27,Credit Card,New
+1663,18,Male,Bangalore,Home,38634,2024-02-25,Credit Card,Returning
+1907,42,Female,Chennai,Sports,27823,2024-06-03,Cash,Returning
+1689,60,Female,Delhi,Home,6726,2024-06-08,Credit Card,Returning
+1674,57,Male,Hyderabad,Clothing,22189,2024-04-20,UPI,Returning
+1379,59,Male,Hyderabad,Beauty,31471,2024-05-16,Cash,New
+1544,42,Male,Delhi,Electronics,26454,2024-08-19,Cash,New
+1928,56,Male,Hyderabad,Sports,24923,2024-08-07,Cash,Returning
+1956,52,Male,Delhi,Beauty,30891,2024-03-08,Cash,Returning
+1690,20,Female,Chennai,Home,14830,2024-10-28,Credit Card,New
+1426,54,Male,Bangalore,Sports,5391,2024-09-05,Credit Card,New
+1612,61,Female,Delhi,Beauty,5492,2024-11-18,UPI,New
+1267,61,Male,Mumbai,Sports,2461,2024-01-06,Debit Card,New
+1834,47,Female,Delhi,Clothing,12997,2024-10-06,Debit Card,New
+1576,55,Female,Hyderabad,Clothing,33051,2024-04-03,UPI,Returning
+1416,51,Female,Chennai,Electronics,11348,2024-09-25,Debit Card,Returning
+1167,29,Female,Chennai,Electronics,13755,2024-07-15,UPI,Returning
+1841,36,Female,Delhi,Clothing,5067,2024-01-25,Credit Card,Returning
+1042,54,Female,Bangalore,Sports,49347,2024-05-27,Cash,New
+1555,61,Male,Mumbai,Clothing,39781,2024-04-27,Cash,Returning
+1284,34,Female,Chennai,Electronics,48503,2024-12-03,Credit Card,New
+1396,27,Male,Hyderabad,Clothing,20889,2024-12-03,Cash,New
+1011,64,Female,Hyderabad,Clothing,45023,2024-03-06,Cash,New
+1606,29,Female,Bangalore,Sports,44419,2024-10-27,Debit Card,New
+1301,33,Male,Chennai,Beauty,17067,2024-06-23,Credit Card,New
+1897,41,Female,Delhi,Electronics,3858,2024-11-14,Debit Card,New
+1252,36,Male,Hyderabad,Sports,23499,2024-03-16,Debit Card,New
+1498,25,Male,Bangalore,Clothing,42858,2024-04-23,Cash,Returning
+1753,48,Male,Chennai,Clothing,11488,2024-04-20,Cash,New
+1034,38,Male,Chennai,Beauty,40946,2024-09-05,Credit Card,Returning
+1726,34,Female,Chennai,Electronics,32021,2024-07-21,Cash,Returning
+1848,40,Female,Chennai,Electronics,6198,2024-05-26,Cash,New
+1089,54,Male,Chennai,Home,1773,2024-02-04,Credit Card,New
+1775,33,Female,Hyderabad,Electronics,28043,2024-11-04,Cash,Returning
+1604,23,Female,Bangalore,Beauty,31849,2024-01-26,Debit Card,Returning
+1921,25,Male,Chennai,Home,11741,2024-08-25,Credit Card,Returning
+1969,42,Female,Mumbai,Home,9997,2024-01-14,Cash,Returning
+1601,35,Male,Mumbai,Clothing,42375,2024-02-14,UPI,New
+1417,42,Male,Bangalore,Clothing,33203,2024-08-03,Credit Card,New
+1114,29,Female,Delhi,Electronics,44541,2024-08-20,Credit Card,New
+1616,32,Female,Delhi,Home,32454,2024-07-11,UPI,Returning
+1902,43,Female,Delhi,Clothing,8502,2024-02-20,Cash,New
+1195,58,Male,Mumbai,Beauty,4747,2024-08-01,Cash,Returning
+1825,62,Male,Delhi,Clothing,42488,2024-05-30,Credit Card,New
+1500,43,Female,Hyderabad,Clothing,22198,2024-10-01,Credit Card,Returning
+1625,64,Female,Chennai,Home,20238,2024-12-03,Cash,New
+1492,49,Female,Mumbai,Home,11203,2024-03-16,Cash,New
+1074,27,Female,Bangalore,Sports,48740,2024-08-07,Debit Card,Returning
+1412,33,Male,Bangalore,Beauty,49922,2024-12-13,Credit Card,Returning
+1375,24,Female,Chennai,Home,18070,2024-07-05,Credit Card,Returning
+1419,34,Male,Mumbai,Electronics,12892,2024-10-15,UPI,Returning
+1728,40,Male,Delhi,Beauty,45224,2024-01-28,Debit Card,Returning
+1276,43,Female,Delhi,Beauty,32799,2024-06-28,Cash,New
+1760,38,Female,Hyderabad,Home,16141,2024-09-09,Debit Card,Returning
+1675,39,Female,Hyderabad,Beauty,14498,2024-05-05,Cash,New
+1393,24,Male,Delhi,Home,6805,2024-06-25,Cash,New
+1868,31,Female,Bangalore,Clothing,33226,2024-02-06,Debit Card,New
+1456,32,Female,Bangalore,Sports,19282,2024-04-08,Credit Card,New
+1919,24,Male,Hyderabad,Clothing,13221,2024-04-07,Cash,New
+1191,26,Female,Chennai,Home,40263,2024-05-06,Debit Card,Returning
+1738,25,Male,Delhi,Home,12927,2024-06-16,UPI,Returning
+1688,40,Female,Hyderabad,Clothing,47050,2024-03-20,Debit Card,New
+1098,46,Male,Hyderabad,Electronics,21066,2024-10-20,UPI,New
+1547,35,Female,Delhi,Electronics,2730,2024-11-28,Cash,Returning
+1977,48,Female,Delhi,Electronics,7011,2024-05-05,Debit Card,Returning
+1998,47,Male,Bangalore,Home,49780,2024-12-08,Debit Card,New
+1095,56,Male,Chennai,Beauty,42729,2024-11-05,UPI,Returning
+1663,52,Female,Chennai,Home,26677,2024-05-29,Debit Card,Returning
+1662,35,Male,Delhi,Beauty,5265,2024-01-16,Debit Card,Returning
+1189,59,Male,Mumbai,Clothing,20854,2024-01-28,Cash,New
+1735,56,Male,Hyderabad,Sports,24429,2024-06-21,Debit Card,Returning
+1036,34,Male,Hyderabad,Beauty,29320,2024-02-15,Credit Card,New
+1779,31,Female,Delhi,Electronics,46540,2024-11-23,UPI,New
+1368,48,Female,Mumbai,Home,30023,2024-08-23,Debit Card,New
+1694,41,Male,Bangalore,Clothing,6052,2024-08-01,UPI,New
+1524,52,Male,Delhi,Electronics,1127,2024-03-25,UPI,New
+1278,61,Male,Delhi,Clothing,12489,2024-10-08,UPI,Returning
+1216,62,Male,Hyderabad,Sports,14280,2024-08-19,Debit Card,New
+1866,51,Female,Delhi,Home,7089,2024-03-25,Debit Card,New
+1872,20,Female,Delhi,Home,35312,2024-03-05,UPI,New
+1797,54,Male,Delhi,Sports,28628,2024-05-13,Credit Card,Returning
+1272,60,Male,Hyderabad,Home,46439,2024-05-30,UPI,Returning
+1880,57,Male,Bangalore,Beauty,39152,2024-04-24,Credit Card,Returning
+1061,43,Female,Bangalore,Clothing,28290,2024-03-04,UPI,Returning
+1595,40,Male,Delhi,Electronics,41453,2024-12-08,Cash,Returning
+1879,61,Female,Hyderabad,Sports,749,2024-12-28,UPI,Returning
+1728,56,Male,Bangalore,Beauty,19809,2024-12-17,UPI,Returning
+1341,32,Female,Bangalore,Electronics,26401,2024-06-06,Debit Card,New
+1396,21,Male,Bangalore,Electronics,24076,2024-03-17,Credit Card,New
+1698,46,Female,Hyderabad,Sports,32008,2024-05-25,Cash,Returning
+1018,39,Male,Hyderabad,Beauty,9675,2024-12-08,Credit Card,New
+1176,42,Male,Delhi,Electronics,25964,2024-08-12,Cash,New
+1611,30,Male,Chennai,Electronics,16760,2024-11-08,UPI,Returning
+1395,35,Female,Bangalore,Beauty,35940,2024-04-12,Debit Card,New
+1444,50,Male,Chennai,Home,30046,2024-12-12,Debit Card,New
+1232,33,Female,Hyderabad,Electronics,40547,2024-10-27,Credit Card,Returning
+1914,62,Female,Hyderabad,Clothing,41930,2024-03-28,Debit Card,New
+1075,59,Male,Hyderabad,Beauty,2487,2024-10-29,Credit Card,Returning
+1264,61,Male,Chennai,Electronics,49742,2024-06-16,Credit Card,Returning
+1454,19,Male,Hyderabad,Sports,25605,2024-06-18,Cash,New
+1795,52,Female,Delhi,Clothing,13448,2024-05-14,Credit Card,New
+1717,59,Male,Hyderabad,Electronics,13526,2024-02-19,Cash,New
+1734,51,Female,Mumbai,Clothing,3273,2024-12-05,Debit Card,Returning
+1383,47,Female,Chennai,Clothing,46427,2024-12-12,Credit Card,Returning
+1563,30,Male,Mumbai,Home,10378,2024-05-13,Credit Card,Returning
+1850,30,Male,Hyderabad,Clothing,43446,2024-12-12,UPI,New
+1505,35,Male,Delhi,Home,10877,2024-05-16,Credit Card,New
+1366,49,Male,Bangalore,Beauty,7847,2024-09-01,Credit Card,Returning
+1143,49,Male,Hyderabad,Home,34276,2024-04-18,UPI,New
+1884,52,Male,Delhi,Sports,4283,2024-11-08,UPI,New
+1068,56,Female,Chennai,Electronics,4798,2024-10-13,Debit Card,Returning
+1098,63,Female,Mumbai,Beauty,5168,2024-01-21,Credit Card,Returning
+1395,46,Female,Mumbai,Beauty,21171,2024-03-30,Debit Card,New
+1024,46,Male,Mumbai,Sports,35320,2024-10-22,Debit Card,Returning
+1947,61,Female,Chennai,Home,34984,2024-04-21,UPI,New
+1890,33,Female,Delhi,Electronics,33578,2024-10-27,Cash,Returning
+1468,61,Female,Chennai,Home,47659,2024-03-17,Debit Card,Returning
+1483,64,Female,Mumbai,Clothing,21422,2024-06-25,Cash,Returning
+1564,27,Female,Hyderabad,Home,34528,2024-12-08,Credit Card,New
+1150,47,Male,Bangalore,Beauty,46425,2024-05-27,UPI,New
+1143,42,Male,Chennai,Electronics,20816,2024-04-10,Credit Card,Returning
+1568,56,Female,Chennai,Home,11960,2024-09-02,Credit Card,Returning
+1038,37,Female,Delhi,Electronics,17468,2024-04-26,UPI,Returning
+1108,22,Female,Delhi,Electronics,30766,2024-04-01,Credit Card,New
+1692,18,Male,Chennai,Clothing,30709,2024-01-28,UPI,Returning
+1041,47,Male,Mumbai,Clothing,24500,2024-01-25,Cash,Returning
+1185,20,Female,Bangalore,Beauty,14511,2024-02-27,Credit Card,Returning
+1934,62,Male,Delhi,Sports,3366,2024-10-23,UPI,Returning
+1397,31,Male,Mumbai,Electronics,47633,2024-05-13,Debit Card,New
+1222,47,Female,Hyderabad,Sports,6398,2024-11-26,Credit Card,New
+1633,21,Male,Delhi,Beauty,18895,2024-09-05,Cash,Returning
+1132,35,Male,Mumbai,Electronics,39519,2024-02-07,UPI,New
+1162,54,Female,Mumbai,Electronics,38207,2024-03-15,Credit Card,New
+1214,42,Male,Bangalore,Sports,4506,2024-05-21,Credit Card,New
+1732,18,Male,Bangalore,Home,34893,2024-11-17,Credit Card,Returning
+1234,63,Female,Hyderabad,Clothing,11456,2024-06-16,Cash,New
+1842,32,Male,Mumbai,Home,31163,2024-09-15,UPI,New
+1657,26,Male,Mumbai,Sports,6578,2024-12-20,Debit Card,New
+1750,32,Female,Bangalore,Clothing,30131,2024-08-12,Debit Card,Returning
+1587,41,Female,Delhi,Home,30640,2024-05-31,Debit Card,Returning
+1008,21,Female,Delhi,Clothing,42191,2024-01-19,UPI,New
+1073,29,Male,Chennai,Electronics,4461,2024-05-25,Debit Card,New
+1953,54,Female,Bangalore,Home,29777,2024-08-28,Cash,Returning
+1491,54,Male,Chennai,Clothing,42074,2024-12-09,UPI,Returning
+1912,60,Female,Bangalore,Clothing,31917,2024-08-24,Credit Card,New
+1252,23,Male,Hyderabad,Clothing,22984,2024-02-04,Cash,New
+1229,56,Female,Mumbai,Home,18603,2024-07-08,Credit Card,Returning
+1518,63,Female,Hyderabad,Beauty,29845,2024-01-01,Debit Card,Returning
+1173,41,Female,Bangalore,Home,46826,2024-06-01,Cash,New
+1652,28,Female,Mumbai,Sports,39954,2024-05-05,UPI,Returning
+1167,30,Male,Delhi,Home,2087,2024-12-10,Cash,New
+1169,51,Female,Delhi,Clothing,43071,2024-08-13,Credit Card,New
+1392,42,Female,Chennai,Electronics,21531,2024-08-08,UPI,New
+1945,24,Male,Bangalore,Home,26712,2024-07-29,Cash,Returning
+1794,21,Female,Bangalore,Home,10850,2024-01-25,Cash,New
+1633,25,Male,Delhi,Clothing,19316,2024-01-16,Cash,New
+1193,37,Female,Hyderabad,Electronics,20788,2024-06-30,Cash,Returning
+1516,46,Female,Mumbai,Electronics,29932,2024-11-24,UPI,Returning
+1028,62,Female,Hyderabad,Sports,44722,2024-05-08,Credit Card,New
+1164,63,Male,Hyderabad,Home,49117,2024-02-11,Cash,New
+1421,27,Female,Delhi,Electronics,7337,2024-12-01,UPI,Returning
+1338,60,Female,Delhi,Electronics,34717,2024-08-23,Credit Card,Returning
+1647,51,Female,Delhi,Beauty,21384,2024-12-25,Cash,Returning
+1495,43,Male,Chennai,Beauty,5954,2024-02-03,Credit Card,New
+1364,58,Male,Hyderabad,Electronics,9924,2024-12-10,Credit Card,New
+1832,20,Female,Bangalore,Sports,37385,2024-02-14,UPI,New
+1341,23,Male,Mumbai,Electronics,42137,2024-05-13,Credit Card,Returning
+1499,22,Female,Chennai,Clothing,44118,2024-01-21,UPI,New
+1656,22,Female,Bangalore,Home,18912,2024-05-01,Cash,Returning
+1510,64,Female,Hyderabad,Sports,47611,2024-03-10,Credit Card,New
+1326,40,Female,Delhi,Clothing,40113,2024-12-17,Credit Card,Returning
+1216,26,Female,Hyderabad,Sports,20642,2024-12-26,Debit Card,New
+1300,52,Female,Mumbai,Clothing,37892,2024-02-17,Cash,New
+1131,37,Female,Chennai,Home,9348,2024-02-08,Cash,Returning
+1803,59,Male,Chennai,Home,49817,2024-10-13,Debit Card,Returning
+1069,52,Male,Mumbai,Beauty,13636,2024-01-10,Debit Card,New
+1251,35,Male,Bangalore,Clothing,1089,2024-01-30,UPI,Returning
+1414,34,Male,Bangalore,Beauty,21408,2024-08-31,UPI,Returning
+1786,41,Male,Chennai,Clothing,7009,2024-09-30,Credit Card,New
+1444,20,Male,Chennai,Beauty,40961,2024-03-28,Credit Card,Returning
+1875,49,Male,Delhi,Home,42722,2024-08-31,Credit Card,New
+1181,52,Female,Bangalore,Sports,49723,2024-11-24,Credit Card,New
+1166,55,Female,Mumbai,Beauty,44976,2024-01-15,UPI,Returning
+1090,30,Female,Bangalore,Clothing,46210,2024-01-04,Cash,Returning
+1713,64,Female,Delhi,Clothing,49920,2024-07-09,Credit Card,New
+1857,42,Male,Chennai,Home,10468,2024-06-16,Cash,New
+1530,26,Male,Chennai,Clothing,2962,2024-01-09,Credit Card,New
+1038,21,Female,Delhi,Electronics,9960,2024-04-18,Debit Card,New
+1125,31,Female,Mumbai,Sports,34283,2024-05-16,Credit Card,New
+1450,54,Male,Chennai,Beauty,9775,2024-06-02,Credit Card,New
+1172,51,Female,Hyderabad,Sports,29177,2024-07-27,Credit Card,Returning
+1652,28,Female,Chennai,Home,13769,2024-09-28,UPI,Returning
+1753,58,Female,Hyderabad,Beauty,906,2024-05-22,Debit Card,Returning
+1219,20,Female,Delhi,Beauty,7884,2024-04-08,Credit Card,New
+1637,45,Male,Delhi,Electronics,23053,2024-11-03,Credit Card,Returning
+1057,46,Female,Chennai,Home,24866,2024-03-09,Cash,New
+1659,26,Female,Bangalore,Clothing,44536,2024-09-03,Debit Card,New
+1475,20,Male,Hyderabad,Electronics,17869,2024-09-17,Credit Card,Returning
+1455,42,Male,Mumbai,Electronics,12295,2024-10-02,Cash,New
+1828,51,Female,Chennai,Sports,4985,2024-03-19,Cash,New
+1894,29,Male,Mumbai,Sports,42169,2024-05-25,UPI,New
+1360,59,Female,Chennai,Sports,3118,2024-04-20,Cash,New
+1934,26,Female,Bangalore,Electronics,30643,2024-09-14,Credit Card,New
+1000,32,Male,Bangalore,Clothing,29925,2024-04-02,UPI,New
+1386,57,Female,Bangalore,Beauty,23173,2024-01-13,UPI,Returning
+1972,42,Female,Bangalore,Sports,10103,2024-09-16,Credit Card,New
+1347,22,Female,Delhi,Clothing,40196,2024-04-18,Debit Card,New
+1189,28,Female,Delhi,Home,5868,2024-11-25,Cash,New
+1504,51,Male,Hyderabad,Sports,5121,2024-07-07,UPI,New
+1190,41,Male,Mumbai,Beauty,15219,2024-04-04,Debit Card,Returning
+1507,32,Female,Chennai,Home,29727,2024-04-14,Credit Card,Returning
+1368,55,Male,Chennai,Home,44394,2024-01-08,Cash,New
+1408,25,Female,Delhi,Beauty,8066,2024-03-07,Cash,New
+1823,22,Female,Chennai,Sports,12806,2024-07-09,UPI,New
+1928,43,Female,Delhi,Electronics,24542,2024-09-12,Cash,Returning
+1933,35,Female,Hyderabad,Beauty,15586,2024-01-09,Cash,Returning
+1116,23,Female,Mumbai,Beauty,17887,2024-04-26,Cash,Returning
+1133,54,Male,Hyderabad,Beauty,27542,2024-09-23,Cash,Returning
+1057,30,Female,Bangalore,Home,24388,2024-04-08,Credit Card,New
+1555,45,Male,Bangalore,Clothing,27014,2024-10-24,Debit Card,Returning
+1684,22,Male,Bangalore,Electronics,18823,2024-06-12,Credit Card,Returning
+1671,30,Female,Hyderabad,Sports,18519,2024-05-20,Credit Card,New
+1172,34,Female,Chennai,Sports,10390,2024-09-24,UPI,New
+1828,57,Female,Mumbai,Clothing,41363,2024-02-06,Cash,Returning
+1814,62,Female,Bangalore,Beauty,45987,2024-03-14,Credit Card,Returning
+1148,49,Female,Bangalore,Electronics,10783,2024-03-13,Cash,Returning
+1079,46,Male,Bangalore,Sports,18779,2024-11-03,Credit Card,Returning
+1885,20,Female,Mumbai,Sports,47499,2024-07-17,Credit Card,New
+1212,57,Female,Bangalore,Beauty,23408,2024-05-09,UPI,New
+1202,51,Male,Mumbai,Clothing,47966,2024-09-02,Debit Card,Returning
+1763,57,Male,Bangalore,Electronics,38452,2024-11-07,Debit Card,Returning
+1228,44,Female,Hyderabad,Clothing,35670,2024-02-29,Credit Card,Returning
+1675,30,Male,Hyderabad,Clothing,38163,2024-10-05,UPI,Returning
+1226,62,Female,Mumbai,Electronics,44672,2024-04-12,Cash,Returning
+1658,50,Male,Hyderabad,Electronics,48429,2024-10-22,Cash,New
+1531,23,Male,Mumbai,Sports,9843,2024-11-15,Credit Card,New
+1440,41,Female,Hyderabad,Sports,11137,2024-12-06,Debit Card,New
+1401,36,Male,Hyderabad,Electronics,35224,2024-05-30,UPI,Returning
+1046,33,Male,Mumbai,Home,40291,2024-06-05,Debit Card,Returning
+1232,57,Male,Chennai,Sports,29634,2024-07-24,Cash,New
+1304,45,Male,Hyderabad,Home,47330,2024-06-27,Debit Card,New
+1525,50,Male,Bangalore,Electronics,47601,2024-07-15,Cash,Returning
+1142,58,Male,Chennai,Sports,4407,2024-08-10,UPI,New
+1414,30,Female,Mumbai,Clothing,34075,2024-03-29,UPI,Returning
+1512,60,Female,Chennai,Electronics,47299,2024-10-13,Credit Card,Returning
+1372,62,Male,Delhi,Beauty,5327,2024-10-02,Credit Card,New
+1565,42,Female,Delhi,Home,31107,2024-08-23,Debit Card,New
+1885,59,Female,Hyderabad,Electronics,14199,2024-07-01,UPI,New
+1258,53,Female,Hyderabad,Electronics,37792,2024-07-27,UPI,Returning
+1655,44,Male,Bangalore,Sports,48461,2024-05-09,Credit Card,Returning
+1470,55,Female,Chennai,Sports,26383,2024-06-01,Cash,New
+1952,24,Male,Delhi,Sports,49491,2024-01-13,Debit Card,Returning
+1970,22,Female,Hyderabad,Beauty,5813,2024-05-01,Debit Card,Returning
+1011,60,Male,Chennai,Sports,14098,2024-12-24,Credit Card,Returning
+1329,62,Male,Hyderabad,Electronics,46326,2024-08-07,UPI,New
+1735,48,Female,Hyderabad,Sports,29307,2024-04-15,Credit Card,Returning
+1783,40,Female,Delhi,Clothing,5387,2024-03-10,Credit Card,New
+1967,59,Male,Delhi,Sports,4354,2024-07-13,Credit Card,New
+1357,27,Female,Hyderabad,Beauty,45726,2024-07-04,Credit Card,Returning
+1971,49,Female,Mumbai,Clothing,15036,2024-04-08,Cash,New
+1407,60,Female,Hyderabad,Electronics,4058,2024-03-22,Cash,Returning
+1667,47,Male,Hyderabad,Electronics,10272,2024-03-15,UPI,New
+1372,56,Male,Bangalore,Home,36843,2024-12-05,Credit Card,New
+1007,48,Female,Bangalore,Clothing,35686,2024-07-10,Cash,Returning
+1121,35,Female,Bangalore,Home,37466,2024-11-20,UPI,New
+1347,53,Female,Mumbai,Clothing,34269,2024-08-01,Credit Card,New
+1675,19,Male,Mumbai,Clothing,40387,2024-11-10,Debit Card,New
+1089,31,Male,Hyderabad,Beauty,19729,2024-11-13,Cash,Returning
+1647,30,Female,Bangalore,Home,10173,2024-05-23,UPI,Returning
+1697,46,Female,Mumbai,Beauty,28377,2024-08-03,Debit Card,New
+1315,29,Female,Delhi,Clothing,32101,2024-12-26,Credit Card,New
+1177,56,Female,Hyderabad,Electronics,38584,2024-11-19,Credit Card,New
+1539,19,Female,Chennai,Clothing,16744,2024-01-15,Credit Card,Returning
+1731,49,Female,Hyderabad,Beauty,27856,2024-08-04,Cash,Returning
+1868,30,Male,Chennai,Home,17306,2024-02-04,UPI,New
+1040,63,Female,Bangalore,Home,23599,2024-07-01,Debit Card,Returning
+1739,44,Male,Chennai,Beauty,45141,2024-09-26,UPI,Returning
+1703,58,Female,Bangalore,Home,37534,2024-12-23,Cash,Returning
+1922,34,Female,Delhi,Sports,40817,2024-04-09,UPI,Returning
+1501,57,Male,Chennai,Electronics,19594,2024-01-07,Cash,New
+1958,48,Male,Hyderabad,Electronics,11089,2024-01-30,Credit Card,Returning
+1144,51,Male,Bangalore,Electronics,2157,2024-10-31,Debit Card,Returning
+1200,41,Male,Hyderabad,Home,33264,2024-05-23,Credit Card,New
+1928,62,Female,Mumbai,Home,40031,2024-04-20,UPI,New
+1723,52,Male,Bangalore,Clothing,3664,2024-08-19,Credit Card,Returning
+1460,23,Female,Chennai,Clothing,28042,2024-06-27,Debit Card,Returning
+1731,36,Male,Bangalore,Electronics,18937,2024-03-12,Credit Card,New
+1751,47,Female,Hyderabad,Sports,41747,2024-07-28,Debit Card,New
+1924,24,Female,Delhi,Clothing,39005,2024-08-07,Debit Card,New
+1908,27,Female,Bangalore,Clothing,20101,2024-03-20,Credit Card,Returning
+1557,58,Female,Chennai,Home,28930,2024-03-23,Cash,Returning
+1546,49,Female,Mumbai,Sports,6509,2024-02-11,UPI,New
+1252,51,Female,Delhi,Electronics,5052,2024-09-29,Cash,Returning
+1389,45,Male,Mumbai,Clothing,9917,2024-07-09,Cash,New
+1593,32,Female,Bangalore,Sports,42489,2024-06-21,Credit Card,Returning
+1882,47,Male,Hyderabad,Sports,3171,2024-01-07,UPI,New
+1255,54,Male,Hyderabad,Electronics,7019,2024-06-03,UPI,New
+1708,46,Female,Chennai,Sports,37230,2024-01-10,Cash,Returning
+1814,39,Male,Hyderabad,Sports,13234,2024-02-03,Credit Card,Returning
+1920,21,Female,Delhi,Sports,46390,2024-02-05,UPI,Returning
+1449,37,Male,Hyderabad,Clothing,4222,2024-01-06,Cash,Returning
+1009,49,Female,Chennai,Electronics,5406,2024-08-02,UPI,Returning
+1823,53,Male,Bangalore,Sports,30596,2024-05-13,Credit Card,Returning
+1797,21,Female,Bangalore,Sports,40531,2024-10-11,Credit Card,New
+1241,44,Female,Hyderabad,Clothing,14199,2024-05-05,Credit Card,Returning
+1250,34,Female,Mumbai,Electronics,21938,2024-12-02,UPI,New
